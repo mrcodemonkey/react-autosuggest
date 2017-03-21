@@ -27,7 +27,7 @@
     "react-themeable": "^1.0.1"
   },
   "peerDependencies": {
-    "react": "^0.13.3",
+    "react": "^0.13.3"
   },
   "devDependencies": {
     "babel": "^5.8.23",
